@@ -1,0 +1,13 @@
+img{
+    width: 30%;
+    margin: 1.67px;
+}
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid grey;
+    width: 35%;
+    margin-left: 1.67px;
+    padding: 1.2em 0;
+    font-size: 1.25em;
+    font-family: 'Jost', sans-serif;
+}
